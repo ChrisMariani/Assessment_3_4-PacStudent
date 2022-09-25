@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f0434c3f50f688049b76d97e903dabf0
+guid: 264ce8c19d6674a44aed52ce7056b8bb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Alien_recovery_state_0
+      name: alien_blue_movement_left_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 3
-        width: 14
-        height: 20
+        x: 1
+        y: 2
+        width: 29
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,20 +120,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb2f86d6f39ba3c42a933c407ffcfa34
-      internalID: 2083064524
+      spriteID: d8dc7105479453b449d63748ba0d26ae
+      internalID: 2103486050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_1
+      name: alien_blue_movement_left_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 3
-        width: 14
-        height: 20
+        x: 33
+        y: 0
+        width: 29
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,20 +141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4185811bb66fd9a4da1403967b741fde
-      internalID: -1256713343
+      spriteID: a971689a51cc5a04da86dc8c40cf2eb8
+      internalID: 388014266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_2
+      name: alien_blue_movement_left_2
       rect:
         serializedVersion: 2
-        x: 73
-        y: 3
-        width: 14
-        height: 20
+        x: 65
+        y: 0
+        width: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,20 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c920686382a720f4cae3b0e907b5581b
-      internalID: 709617928
+      spriteID: 701f337cd93496a4da1a974c1871fb24
+      internalID: -330541882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_3
+      name: alien_blue_movement_left_3
       rect:
         serializedVersion: 2
-        x: 105
-        y: 3
-        width: 14
-        height: 20
+        x: 97
+        y: 0
+        width: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,20 +183,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be3430797736352478de0908b841a3e0
-      internalID: 173167800
+      spriteID: 165b318f0dd98384caa5dc2ca39ab041
+      internalID: -1547466613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_4
+      name: alien_blue_movement_left_4
       rect:
         serializedVersion: 2
-        x: 137
-        y: 3
-        width: 14
-        height: 20
+        x: 129
+        y: 0
+        width: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,20 +204,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f0b9f7890269864da4ac31103e26205
-      internalID: -2088489477
+      spriteID: f1684be867d6cf743aecfbd73372cce6
+      internalID: 1233394473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_5
+      name: alien_blue_movement_left_5
       rect:
         serializedVersion: 2
-        x: 169
-        y: 3
-        width: 14
-        height: 20
+        x: 161
+        y: 0
+        width: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,8 +225,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 887d857c61711cd4896d52d524659b22
-      internalID: 1378077220
+      spriteID: 40109ab369fbb264c98184a69697e7c4
+      internalID: 127507719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_blue_movement_left_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8671162d1f121744f979ecdc6591f45b
+      internalID: -548752284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_blue_movement_left_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c0ef0510e834d43b1e34e9aa472041
+      internalID: -2072634910
       vertices: []
       indices: 
       edges: []
@@ -242,12 +284,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Alien_recovery_state_4: -2088489477
-      Alien_recovery_state_2: 709617928
-      Alien_recovery_state_1: -1256713343
-      Alien_recovery_state_3: 173167800
-      Alien_recovery_state_5: 1378077220
-      Alien_recovery_state_0: 2083064524
+      alien_blue_movement_left_1: 388014266
+      alien_blue_movement_left_4: 1233394473
+      alien_blue_movement_left_7: -2072634910
+      alien_blue_movement_left_2: -330541882
+      alien_blue_movement_left_5: 127507719
+      alien_blue_movement_left_6: -548752284
+      alien_blue_movement_left_3: -1547466613
+      alien_blue_movement_left_0: 2103486050
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
