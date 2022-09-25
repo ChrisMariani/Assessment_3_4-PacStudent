@@ -8,6 +8,7 @@ public class SparkMovement : MonoBehaviour
     // void Start() { }
 
     public float moveSpeed = 5.0f;
+    public AudioSource move;
 
 
     public Animator animator;
@@ -27,7 +28,10 @@ public class SparkMovement : MonoBehaviour
 
     //INDEPENDENT MOVEMENT
 
-
+void MovementSound() {
+        move.Play();
+    }
 
 
 }
+

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f0434c3f50f688049b76d97e903dabf0
+guid: edd91c8255e3f0e4c9e68f67396ab682
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Alien_recovery_state_0
+      name: alien_pink_right_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 3
-        width: 14
-        height: 20
+        x: 1
+        y: 2
+        width: 29
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,20 +120,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb2f86d6f39ba3c42a933c407ffcfa34
-      internalID: 2083064524
+      spriteID: 68412739d8ee0b543b2582aaada120d4
+      internalID: 22656670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_1
+      name: alien_pink_right_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 3
-        width: 14
-        height: 20
+        x: 33
+        y: 0
+        width: 29
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,20 +141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4185811bb66fd9a4da1403967b741fde
-      internalID: -1256713343
+      spriteID: c41691bfce3cca448a1c7b1904ec892d
+      internalID: -1895284040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_2
+      name: alien_pink_right_2
       rect:
         serializedVersion: 2
-        x: 73
-        y: 3
-        width: 14
-        height: 20
+        x: 65
+        y: 0
+        width: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,20 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c920686382a720f4cae3b0e907b5581b
-      internalID: 709617928
+      spriteID: 8cf2c79d36d4cdd49950d6018145b372
+      internalID: 679489734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_3
+      name: alien_pink_right_3
       rect:
         serializedVersion: 2
-        x: 105
-        y: 3
-        width: 14
-        height: 20
+        x: 97
+        y: 0
+        width: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,20 +183,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be3430797736352478de0908b841a3e0
-      internalID: 173167800
+      spriteID: 81cb2f14bc813574293c2d71eeb5ebb3
+      internalID: 1012021999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_4
+      name: alien_pink_right_4
       rect:
         serializedVersion: 2
-        x: 137
-        y: 3
-        width: 14
-        height: 20
+        x: 129
+        y: 0
+        width: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,20 +204,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f0b9f7890269864da4ac31103e26205
-      internalID: -2088489477
+      spriteID: 0c8dca4077fc94946ac08abdb15b7c4d
+      internalID: 289011474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_5
+      name: alien_pink_right_5
       rect:
         serializedVersion: 2
-        x: 169
-        y: 3
-        width: 14
-        height: 20
+        x: 161
+        y: 0
+        width: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,8 +225,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 887d857c61711cd4896d52d524659b22
-      internalID: 1378077220
+      spriteID: 0717ef2c04d16a249bb0da2bee28ea8a
+      internalID: -569886053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_pink_right_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5565df2270c1c714eaa35b60d8e6d319
+      internalID: 164551997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_pink_right_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9599c021c95f76e43872c6eb982dd883
+      internalID: 1382029703
       vertices: []
       indices: 
       edges: []
@@ -242,12 +284,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Alien_recovery_state_4: -2088489477
-      Alien_recovery_state_2: 709617928
-      Alien_recovery_state_1: -1256713343
-      Alien_recovery_state_3: 173167800
-      Alien_recovery_state_5: 1378077220
-      Alien_recovery_state_0: 2083064524
+      alien_pink_right_7: 1382029703
+      alien_pink_right_3: 1012021999
+      alien_pink_right_2: 679489734
+      alien_pink_right_4: 289011474
+      alien_pink_right_0: 22656670
+      alien_pink_right_5: -569886053
+      alien_pink_right_1: -1895284040
+      alien_pink_right_6: 164551997
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f0434c3f50f688049b76d97e903dabf0
+guid: 54aab0513946b4f41b856146539bfc4f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Alien_recovery_state_0
+      name: alien_red_move_down_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 3
-        width: 14
-        height: 20
+        x: 1
+        y: 2
+        width: 29
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,20 +120,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb2f86d6f39ba3c42a933c407ffcfa34
-      internalID: 2083064524
+      spriteID: f44cb2e44eb8ca14a90b5a9949aaf215
+      internalID: 200231353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_1
+      name: alien_red_move_down_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 3
-        width: 14
-        height: 20
+        x: 33
+        y: 0
+        width: 29
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,20 +141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4185811bb66fd9a4da1403967b741fde
-      internalID: -1256713343
+      spriteID: 6c0221df3ff53b846970e4c022fd7008
+      internalID: 340973345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_2
+      name: alien_red_move_down_2
       rect:
         serializedVersion: 2
-        x: 73
-        y: 3
-        width: 14
-        height: 20
+        x: 65
+        y: 0
+        width: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,20 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c920686382a720f4cae3b0e907b5581b
-      internalID: 709617928
+      spriteID: 58c1be1e3d5ef984d902e229b03949fe
+      internalID: -1734606080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_3
+      name: alien_red_move_down_3
       rect:
         serializedVersion: 2
-        x: 105
-        y: 3
-        width: 14
-        height: 20
+        x: 97
+        y: 0
+        width: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,20 +183,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be3430797736352478de0908b841a3e0
-      internalID: 173167800
+      spriteID: 036b9f5043482514992d183e950b2edd
+      internalID: -1272616240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_4
+      name: alien_red_move_down_4
       rect:
         serializedVersion: 2
-        x: 137
-        y: 3
-        width: 14
-        height: 20
+        x: 129
+        y: 0
+        width: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,20 +204,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f0b9f7890269864da4ac31103e26205
-      internalID: -2088489477
+      spriteID: 2dda1056f328c5343aa077907f85136b
+      internalID: -301805059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alien_recovery_state_5
+      name: alien_red_move_down_5
       rect:
         serializedVersion: 2
-        x: 169
-        y: 3
-        width: 14
-        height: 20
+        x: 161
+        y: 0
+        width: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,8 +225,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 887d857c61711cd4896d52d524659b22
-      internalID: 1378077220
+      spriteID: 054f54e00c2a72d46908e63aa656d4c0
+      internalID: 323555364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_red_move_down_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560a2b3e71fd8d34da5e56918d53ed60
+      internalID: -1027513809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_red_move_down_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec233b4d651e5449782969e1ec62eb
+      internalID: -43280458
       vertices: []
       indices: 
       edges: []
@@ -242,12 +284,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Alien_recovery_state_4: -2088489477
-      Alien_recovery_state_2: 709617928
-      Alien_recovery_state_1: -1256713343
-      Alien_recovery_state_3: 173167800
-      Alien_recovery_state_5: 1378077220
-      Alien_recovery_state_0: 2083064524
+      alien_red_move_down_6: -1027513809
+      alien_red_move_down_2: -1734606080
+      alien_red_move_down_3: -1272616240
+      alien_red_move_down_0: 200231353
+      alien_red_move_down_1: 340973345
+      alien_red_move_down_7: -43280458
+      alien_red_move_down_5: 323555364
+      alien_red_move_down_4: -301805059
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
